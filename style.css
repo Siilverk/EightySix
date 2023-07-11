@@ -1,0 +1,46 @@
+/* @import url("/style/header.css");  */
+
+
+
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    background-color: antiquewhite;
+}
+
+
+header{
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    margin: 0;
+    background-color: rgb(228, 240, 240);
+}
+
+main{
+    background-color: rgb(236, 200, 200);
+    display: flex;
+    flex-direction: column;
+    margin: 150px 500px 0px 500px;
+    padding: 10px;
+}
+
+h1{
+    font-size: 80px;
+}
+
+h2{
+    font-size: 50px;
+
+}
+
+.jour{
+    display: flex;
+    justify-content: center;
+}
+.vocabulaire{
+    margin-top: 20px;
+}
+
